@@ -1,9 +1,9 @@
 # Kaggle_PS4E7
 Binary Classification of Insurance Cross Selling
 
-Teammate: Justin Kihyun Kim
+__Teammate:__ Justin Kihyun Kim
 
-Dataset could be access via: <br/>
+__Dataset could be access via:__ <br/>
 https://www.kaggle.com/competitions/playground-series-s4e7/overview
 
 __Goal:__ The objective of this competition is to predict which customers respond positively to an automobile insurance offer.
